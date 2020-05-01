@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="968ab440-9cf7-485a-8672-4bf0d1f8a1a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XanNuHD3SGrtDcvak0NKZHDXPH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\migue\Escritorio\struts2\Examen01\examen1\src\main\webapp" />
+      <recent name="C:\Users\migue\Escritorio\struts2\Examen01\examen1\src\main\java\action" />
+      <recent name="C:\Users\migue\Escritorio\struts2\Examen01\examen1\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\migue\Escritorio\struts2\Examen01\examen1\src\main\webapp\WEB-INF\example" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="968ab440-9cf7-485a-8672-4bf0d1f8a1a1" name="Default Changelist" comment="" />
+      <created>1581293035551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581293035551</updated>
+      <workItem from="1581293040012" duration="12845000" />
+      <workItem from="1581374575061" duration="4040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="151" key="#Project_Structure" timestamp="1581293431846">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="151" key="#Project_Structure/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581293431846" />
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581306658490">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581306658490" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581377888035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581309769984" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581377888035" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581377888034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581309769984" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581377888034" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581377888034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581309769984" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581377888034" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581377888034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581309769984" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581377888034" />
+    <state x="170" y="148" key="Maven.ArtifactSearchDialog" timestamp="1581297221426">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="170" y="148" key="Maven.ArtifactSearchDialog/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581297221426" />
+    <state x="120" y="67" key="SettingsEditor" timestamp="1581293449135">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="67" key="SettingsEditor/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581293449135" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581374575045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581374575045" />
+    <state x="355" y="189" key="run.anything.popup" timestamp="1581379774588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="296" y="226" key="run.anything.popup/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581307620013" />
+    <state x="355" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581379774588" />
+    <state x="236" y="223" key="struts2 file set editor" timestamp="1581293446310">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="236" y="223" key="struts2 file set editor/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1581293446310" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="Login" namespace="/login" extends="struts-default">
+        <default-action-ref name="LoginAction"/>
+        <action name="LoginAction" class="action.login.LoginAction" method ="execute">
+            <result name="success">/WEB-INF/Login/ok.jsp</result>
+            <result name="info" >/WEB-INF/Login/Login.jsp</result>
+        </action>
+        <action name="RegisterUserAction" class="action.login.RegisterUserAction">
+            <result name="REGISTER">WEB-INF/Login/ok.jsp</result>
+        </action>
+
+    </package>
+</struts>

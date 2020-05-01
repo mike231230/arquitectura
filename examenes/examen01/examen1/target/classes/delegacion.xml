@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="delegacion" namespace="/delegacion" extends="struts-default">
+        <default-action-ref name="Report"/>
+
+
+        <action name="registerdelegacion" class="action.delegacion.RegisterAction">
+            <result name="REGISTER">/WEB-INF/crudDelegacion/Registro.jsp</result>
+        </action>
+        <action name="updatedetails" class="action.delegacion.UpdateAction">
+            <result name="UPDATE">/WEB-INF/crudDelegacion/Update.jsp</result>
+
+        </action>
+        <action name="deleterecord" class="action.delegacion.DeleteAction">
+            <result name="DELETE">/WEB-INF/crudDelegacion/Delete.jsp</result>
+        </action>
+
+        <action name="Report" class="action.delegacion.ReadAction">
+            <result name="REPORT">/WEB-INF/crudDelegacion/Report.jsp</result>
+        </action>
+
+
+
+
+    </package>
+
+
+
+</struts>

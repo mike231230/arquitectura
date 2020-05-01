@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="Riesgo" namespace="/riesgo" extends="struts-default">
+        <default-action-ref name="RiesgoReport"/>
+
+
+        <action name="RiesgoReport" class="action.riesgo.RiesgoRead">
+            <result name="REPORT">/WEB-INF/crudRiesgo/RiesgoReport.jsp</result>
+        </action>
+        <action name="RiesgoRegister" class="action.riesgo.RiesgoRegister">
+            <result name="REGISTER">/WEB-INF/crudRiesgo/RiesgoRegistro.jsp</result>
+        </action>
+
+        <action name="Riesgoupdatedetails" class="action.riesgo.RiesgoUpdate">
+            <result name="UPDATE">/WEB-INF/crudRiesgo/RiesgoUpdate.jsp</result>
+        </action>
+        <action name="Riesgodeleterecord" class="action.riesgo.RiesgoDelete">
+            <result name="DELETE">/WEB-INF/crudRiesgo/RiesgoDelete.jsp</result>
+        </action>
+
+
+
+
+
+    </package>
+
+
+
+</struts>

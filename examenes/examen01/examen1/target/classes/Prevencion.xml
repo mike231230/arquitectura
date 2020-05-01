@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="Prevencion" namespace="/prevencion" extends="struts-default">
+        <default-action-ref name="PrevencionReport"/>
+
+
+        <action name="PrevencionReport" class="action.prevencion.PrevencionRead">
+            <result name="REPORT">/WEB-INF/crudPrevencion/PrevencionReport.jsp</result>
+        </action>
+        <action name="PrevencionRegister" class="action.prevencion.PrevencionRegister">
+            <result name="REGISTER">/WEB-INF/crudPrevencion/PrevencionRegistro.jsp</result>
+        </action>
+
+        <action name="Prevencionupdatedetails" class="action.prevencion.PrevencionUpdate">
+            <result name="UPDATE">/WEB-INF/crudPrevencion/PrevencionUpdate.jsp</result>
+        </action>
+
+        <action name="Prevenciondeleterecord" class="action.prevencion.PrevencionDelete">
+            <result name="DELETED">/WEB-INF/crudPrevencion/PrevencionDelete.jsp</result>
+        </action>
+
+
+
+
+
+    </package>
+
+
+
+</struts>

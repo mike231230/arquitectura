@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1f2e41d-af8e-489a-ae23-ca1aac61067d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WgwmWi9dyvHYgRwnY332JPonDI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Escritorio/arquitectura/AguirreMiguel/Tareas/tarea1" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="persona.main" />
+      <module name="Persona" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persona.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f2e41d-af8e-489a-ae23-ca1aac61067d" name="Default Changelist" comment="" />
+      <created>1579584704053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579584704053</updated>
+      <workItem from="1579584711431" duration="3922000" />
+      <workItem from="1579666378836" duration="2365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1579587191085">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="202" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579587191085" />
+    <state x="420" y="235" key="FileChooserDialogImpl" timestamp="1579669330765">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="235" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579669330765" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1579588647481">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579588647481" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1579588647480">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579588647480" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1579588647480">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579588647480" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1579588647481">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579588647481" />
+    <state x="336" y="317" key="com.intellij.ide.util.TipDialog" timestamp="1579667475192">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="317" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579667475192" />
+    <state x="382" y="112" key="refactoring.ChangeSignatureDialog" timestamp="1579588103033">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="382" y="112" key="refactoring.ChangeSignatureDialog/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579588103033" />
+    <state x="303" y="211" key="search.everywhere.popup" timestamp="1579668054788">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" key="search.everywhere.popup/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579668054788" />
+    <state x="362" y="405" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579669348898">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="362" y="405" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.0.1536.832/0.0.1280.984@0.0.1280.984" timestamp="1579669348898" />
+  </component>
+</project>

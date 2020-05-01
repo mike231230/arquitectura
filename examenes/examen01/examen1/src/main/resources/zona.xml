@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="zona" namespace="/zona" extends="struts-default">
+       <default-action-ref name="zonareport"/>
+
+
+
+        <action name="zonareport" class="action.zona.ZonaRead">
+            <result name="REPORT">/WEB-INF/crudzona/ReportZona.jsp</result>
+        </action>
+        <action name="zonaregistro" class="action.zona.ZonaRegister">
+            <result name="REGISTER">/WEB-INF/crudzona/RegistroZona.jsp</result>
+        </action>
+        <action name="zonaupdate" class="action.zona.ZonaUpdate">
+            <result name="UPDATE">/WEB-INF/crudzona/UpdateZona.jsp</result>
+        </action>
+        <action name="zonaDelete" class="action.zona.ZonaDelete">
+            <result name="DELETE">/WEB-INF/crudzona/DeleteZona.jsp</result>
+        </action>
+
+    </package>
+
+
+
+
+</struts>

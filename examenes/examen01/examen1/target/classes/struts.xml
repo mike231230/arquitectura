@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd"
+
+        >
+
+<struts>
+
+    <constant name="struts.enable.DynamicMethodInvocation" value="false"/>
+    <constant name="struts.devMode" value="true"/>
+
+
+    <include file="delegacion.xml"/>
+    <include file="zona.xml"/>
+    <include file="Riesgo.xml"/>
+    <include file="Prevencion.xml"/>
+    <include file="login.xml"></include>
+
+
+
+    <package name="default" namespace="/" extends="struts-default">
+        <default-action-ref name="Login"/>
+
+        <action name="Login">
+            <result type="redirectAction">
+                <param name="actionName">LoginAction</param>
+                <param name="namespace">/login</param>
+            </result>
+        </action>
+
+
+        <action name="delegacion">
+            <result type="redirectAction">
+                <param name="actionName">Report</param>
+                <param name="namespace">/delegacion</param>
+            </result>
+        </action>
+
+        <action name="zona">
+            <result type="redirectAction">
+                <param name="actionName">zonaReport</param>
+                <param name="namespace">/zona</param>
+            </result>
+        </action>
+
+        <action name="Riesgo">
+            <result type="redirectAction">
+                <param name="actionName">RiesgoReport</param>
+                <param name="namespace">/riesgo</param>
+            </result>
+        </action>
+
+        <action name="Prevencion">
+            <result type="redirectAction">
+                <param name="actionName">PrevencionReport</param>
+                <param name="namespace">/prevencion</param>
+            </result>
+
+        </action>
+
+
+
+
+
+
+
+
+
+        <!--<action name="list" method="list" class ="front.listAction">
+
+            <result name="freemarker" name"sucess">WEB-INF/ftl/index.ftl</result>
+
+        <action/>-->
+
+
+
+    </package>
+
+
+
+
+    <!-- Add addition packages and configuration here. -->
+
+</struts>
